@@ -1,6 +1,6 @@
 # Tarea-2---CSS-y-Flexbox
 ## Enlace a GitHub Pages
-https://supreme-meme-q765r7rvp5rgc45qx-8000.app.github.dev/
+https://adriaann96.github.io/Tarea-2---CSS-y-Flexbox/
 
 ## 3 propiedades CSS utilizadas
 **1. display: flex;**  
